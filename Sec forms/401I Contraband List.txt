@@ -1,0 +1,13 @@
+[color=#cb0000][head=2]Official Security Team Documentation[/head][/color]
+[head=3]401I Contraband List[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]1. [/head]Listed Contraband[/head]
+Add to the list of Contraband as the shift goes on with confiscated items. Time of confiscation and contraband level are unnecessary, though appreciated.
+
+Contraband:
+-    [color=#002AAF]Sample Answer[/color]
+-    [color=#002AAF]Sample Answer[/color]
+-    [color=#002AAF]Sample Answer[/color]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ [head=3][head=2]2. [/head]Stamps and Signatures[/head]
+[color=#cb0000]This section is only to be completed at the shift's end, when no more contra can be expected to be turned in.[/color]

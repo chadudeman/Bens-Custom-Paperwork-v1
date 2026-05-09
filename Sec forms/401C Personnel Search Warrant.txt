@@ -1,0 +1,26 @@
+[color=#cb0000]█▄ █ ▀█▀[color=#cb0000][bold][head=2] Security Documentation[/head][/bold][/color]
+█ ▀█     █     [/color][head=3][bold]FORM 401-C |[/bold] Personnel Search Warrant.[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]1. [bold][/head]Information on the Suspect[/head][/bold]
+[bolditalic]Name:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Gender:[/bolditalic]
+  - 	\[  ] Male
+  - 	\[  ] Female
+  - 	\[  ] Prefer not to state
+  - 	\[  ] N/A
+\[  ] Other:    [color=#002AAF]Sample other[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bolditalic]Age:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]2. [/head]Warrant Information[/head]
+[bolditalic]Requesting Officer:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Reason for Search Warrant:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ [head=3][head=2]3. [/head]Stamps and Signatures[/head]
+[color=#cb0000][mono]This 401C form is invalid until stamped by all relevant parties, that being the Captain, HoS, or individual's department head.[/mono][/color]

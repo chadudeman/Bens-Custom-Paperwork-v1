@@ -1,0 +1,29 @@
+[color=#009100]█▄ █ ▀█▀ [color=#009100][bold][head=2]CentComm Documentation[/head][/bold][/color]
+█ ▀█     █     [/color][head=3][bold]FORM 402-B |[/bold] Intervention Request.[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]1. [bold][/head]Nature of the Emergency[/head][/bold]
+[bolditalic]Nature of the Incident:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]2. [bold][/head]Requested Response[/head][/bold]
+\[  ] Central Command Advice/Orders.
+\[  ] Armed Response.
+  - 	\[  ] Emergency Response Team.
+  - 	\[  ] CBURN.
+  - 	\[  ] REDACTED
+\[  ] Other:    [color=#002AAF]Other[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]3. [bold][/head]Level of Urgency[/head][/bold]
+  - 	\[  ] Non-Essential.
+  - 	\[  ] Low Priority.
+  - 	\[  ] High Priority.
+  - 	\[  ] Critical.
+\[  ] Other:    [color=#002AAF]Other[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]4. [bold][/head]Short Incident Report[/head][/bolditalic]
+Report:
+    [color=#002AAF]Sample Answer[/color]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3]Nanotrasen Representative's Stamp and Signature[/head]

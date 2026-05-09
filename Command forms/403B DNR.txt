@@ -1,0 +1,28 @@
+[color=#1b67a5]█▄ █ ▀█▀[color=#1b67a5][bold][head=2] Command Documentation[/head][/bold][/color]
+█ ▀█     █     [/color][head=3][bold]FORM 403-B |[/bold]DNR Order.[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]1. [bold][/head]Information on the Individual[/head][/bold]
+[bolditalic]Explain briefly why the individual has been marked DNR:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Individuals's Name:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Individuals's Age:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Individual's Gender:[/bolditalic]
+  - 	\[  ] Male
+  - 	\[  ] Female
+  - 	\[  ] Prefer not to state
+  - 	\[  ] N/A
+\[  ] Other:    [color=#002AAF]Sample other[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]2. [/head]Additional Information[/head]
+[bolditalic]Was this DNR requested for Security reasons/by the Security team?:[/bolditalic]
+    - 	\[  ] YES
+    - 	\[  ] NO
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ [head=3][head=2]3. [/head]Stamps and Signatures[/head]
+[color=#cb0000][mono]ANY 403B FORM IS INVALID WITHOUT THE CAPTAIN'S SIGNATURE AND STAMP.[/mono][/color]

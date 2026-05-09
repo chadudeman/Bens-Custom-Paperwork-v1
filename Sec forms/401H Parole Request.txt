@@ -1,0 +1,29 @@
+[color=#cb0000]█▄ █ ▀█▀[color=#cb0000][bold][head=2] Security Documentation[/head][/bold][/color]
+█ ▀█     █     [/color][head=3][bold]FORM 401-H |[/bold]Parole Request.[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]1. [bold][/head]Information on the Prisoner[/head][/bold]
+[bolditalic]Name:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Gender:[/bolditalic]
+  - 	\[  ] Male
+  - 	\[  ] Female
+  - 	\[  ] Prefer not to state
+  - 	\[  ] N/A
+\[  ] Other:    [color=#002AAF]Sample other[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bolditalic]Age:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]2. [bold][/head]Parole Request Information[/head][/bold]
+[bolditalic]Requesting Officer:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Reasoning:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Is the Requesting Officer willing to act as witness to this parole, and accept disciplinary action should their judgement fail them on this matter?[/bolditalic]:
+  - 	\[  ] Yes
+  - 	\[  ] No
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ [head=3][head=2]3. [bold][/head]Stamps and Signatures[/head][/bold]

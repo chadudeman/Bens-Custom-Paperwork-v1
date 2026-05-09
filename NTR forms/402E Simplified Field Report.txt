@@ -1,0 +1,15 @@
+[color=#009100]█▄ █ ▀█▀ [color=#009100][bold][head=2]CentComm Documentation[/head][/bold][/color]
+█ ▀█     █     [/color][head=3][bold]FORM 402-E |[/bold] Field Report.[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[bolditalic]Nature of the Message:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[bolditalic]Intervention Requested?:[/bolditalic]
+  - 	\[  ] Affirmative.
+  - 	\[  ] Negative.
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Dear [color=#009100]CENTRAL COMMAND[/color].
+
+Your's truly, [color=#009100]NANOTRASEN REP[/color].
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3]Central Command Figure of Authority's Stamp and Signature.[/head]

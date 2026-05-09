@@ -1,0 +1,13 @@
+[color=#cb0000]█▄ █ ▀█▀[color=#cb0000][bold][head=2] Security Correspondence[/head][/bold][/color]
+█ ▀█     █     [/color][head=3][bold]FORM 401-F |[/bold] Prisoner's Letter.[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+To: [bolditalic][INSERT PERSON OF INTEREST'S NAME][/bolditalic]
+From: [bolditalic][color=#ff0000][PRISONER'S NAME HERE][/color] | [color=#cb0000]Station Brig.[/color][/bolditalic]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Dear [color=#cb0000]PERSON OF INTEREST[/color].
+
+Your's truly, [color=#ff0000]NAME HERE[/color].
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[mono][color=#cb0000]This letter will be recorded in the Sector's security database for the purposes of maintaining security and public safety.[/color][/mono]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3]Writer's signature.[/head]

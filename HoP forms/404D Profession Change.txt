@@ -1,0 +1,61 @@
+[color=#134975]█▄ █ ▀█▀[color=#134975][bold][head=2] Command Documentation[/head][/bold][/color]
+█ ▀█     █     [/color][head=3][bold]FORM 404-D |[/bold] Profession Change.[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]1. [bold][/head]Personal Information[/head][/bold]
+[bolditalic]Name:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+ 
+[bolditalic]Gender:[/bolditalic]
+  - 	\[  ] Male
+  - 	\[  ] Female
+  - 	\[  ] Prefer not to state
+  - 	\[  ] N/A
+\[  ] Other:    [color=#002AAF]Sample other[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bolditalic]Age:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]2. [bold][/head]Employee Information[/head][/bold]
+[bolditalic]What department do you work under:[/bolditalic]
+  - 	\[  ] Service
+  - 	\[  ] Engineering
+  - 	\[  ] Security
+  - 	\[  ] Medical
+  - 	\[  ] Command
+  - 	\[  ] Science
+  - 	\[  ] Cargo
+  - 	\[  ] N/A
+\[  ] Other:    [color=#002AAF]Sample other[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bolditalic]State your role in said department:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Level of information clearance:[/bolditalic]
+  - 	\[  ] Central Command
+  - 	\[  ] Command
+  - 	\[  ] Security
+  - 	\[  ] Civilian
+\[  ] Other:    [color=#002AAF]Sample other[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]3. [bold][/head]Transfer Information[/head][/bold]
+[bolditalic]What department do you wish to transfer to?:[/bolditalic]
+  - 	\[  ] Service
+  - 	\[  ] Engineering
+  - 	\[  ] Security
+  - 	\[  ] Medical
+  - 	\[  ] Command
+  - 	\[  ] Science
+  - 	\[  ] Cargo
+\[  ] Other:    [color=#002AAF]Sample other[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bolditalic]State requested new profession:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]State reasoning:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]4. [/head][bold]Stamps and Signatures[/head][/bold]
+[color=#cb0000][mono]All 404D forms are to be stamped AND signed by the Department Heads of the requested deparement of transfer, as well as the Head of Personnel. Any abuse of the accesses granted by this form is grounds for immediate permission removal, firing from said department, and employee review. The Head of Personnel is not responsible for any abuses of accesses given by a 404D form, nor can they be held legally accountable.
+
+By signing, all parties acknowledge these terms.[/mono][/color]

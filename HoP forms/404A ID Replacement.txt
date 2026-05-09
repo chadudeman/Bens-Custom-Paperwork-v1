@@ -1,0 +1,67 @@
+[color=#134975]█▄ █ ▀█▀[color=#134975][bold][head=2] Command Documentation[/head][/bold][/color]
+█ ▀█     █     [/color][head=3][bold]FORM 404-A |[/bold]ID Replacement.[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]1. [bold][/head]Personal Information[/head][/bold]
+[bolditalic]Name:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Surname:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Given Names/Aliases:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+ 
+[bolditalic]Gender:[/bolditalic]
+  - 	\[  ] Male
+  - 	\[  ] Female
+  - 	\[  ] Prefer not to state
+  - 	\[  ] N/A
+\[  ] Other:    [color=#002AAF]Sample other[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bolditalic]Age:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ [head=3][head=2]2. [bold][/head]Employee Information[/head][/bold]
+[bolditalic]How do you receive your pay?:[/bolditalic]
+\[  ] I receive no pay
+\[  ] I receive pay in the form of...
+  - 	\[  ] Wire transfer
+  - 	\[  ] Paycheque
+  - 	\[  ] Other goods and/or services
+  - 	\[  ] Reductions on a debt owed.
+\[  ] Other:    [color=#002AAF]Sample other[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bolditalic]How do you receive pay?[/bolditalic]
+  - 	\[  ] Hourly
+  - 	\[  ] Salaried
+  - 	\[  ] Piecemeal
+\[  ] Other:    [color=#002AAF]Sample other[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bolditalic]How long have you been working for the Nanotrasen Corporation?:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]What department do you work under:[/bolditalic]
+  - 	\[  ] Service
+  - 	\[  ] Engineering
+  - 	\[  ] Security
+  - 	\[  ] Medical
+  - 	\[  ] Command
+  - 	\[  ] Science
+  - 	\[  ] Cargo
+  - 	\[  ] N/A
+\[  ] Other:    [color=#002AAF]Sample other[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bolditalic]State your role in said department:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]On a scale from 1-100, how much do you love the Nanotrasen Corporation?[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[bolditalic]Describe in a step by step manner how you shall avoid losing your ID again.[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Do you swear to make the utmost effort to not lose company property of such value again?[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]3. [bold][/head]Stamps and Signatures[/head][/bold]
+[color=#cb0000][mono]All 404A forms are to be stamped and signed by the individual's department head and the Head of Personnel, as well as signed by the individual themself. Nanotrasen witholds the right to deny any ID replacement on any grounds. The HoP reserves total judgement over the validity over a 404A and the decision to provide a new ID.[/mono][/color]

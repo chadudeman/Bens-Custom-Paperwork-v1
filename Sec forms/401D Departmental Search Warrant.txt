@@ -1,0 +1,21 @@
+[color=#cb0000]█▄ █ ▀█▀[color=#cb0000][bold][head=2] Security Documentation[/head][/bold][/color]
+█ ▀█     █     [/color][head=3][bold]FORM 401-D |[/bold] Dept Search Warrant.[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]1. [bold][/head]Warrant Information[/head][/bold]
+[bolditalic]Requesting Officer:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Reason for Search Warrant:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Department to be searched:[/bolditalic]
+  - 	\[  ] Service
+  - 	\[  ] Engineering
+  - 	\[  ] Security
+  - 	\[  ] Medical
+  - 	\[  ] Command
+  - 	\[  ] Science
+  - 	\[  ] Cargo
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ [head=3][head=2]3. [bold][/head]Stamps and Signatures[/head][/bold]
+[color=#cb0000][mono]This 401D form is invalid until stamped by all relevant parties, that being the Captain, or the respective department head.[/mono][/color]

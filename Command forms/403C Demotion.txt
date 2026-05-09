@@ -1,0 +1,26 @@
+[color=#1b67a5]█▄ █ ▀█▀[color=#1b67a5][bold][head=2] Command Documentation[/head][/bold][/color]
+█ ▀█     █     [/color][head=3][bold]FORM 403-C |[/bold]Command Demotion Order.[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ [head=3][head=2]1. [bold][/head]Relevant Information[/head][/bold]
+[bolditalic]Name of Demotee:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Demotee's Held Command Position:[/bolditalic]
+  - 	\[  ] Captain
+  - 	\[  ] Head of Personnel
+  - 	\[  ] Head of Security
+  - 	\[  ] Chief Engineer
+  - 	\[  ] Chief Medical Officer
+  - 	\[  ] Quartermaster
+  - 	\[  ] Research Director
+  - 	\[  ] Administrative Assistant
+\[  ] Other:    [color=#002AAF]Sample answer[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bolditalic]Reason for Demotion:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Individual Requesting the Demotion:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ [head=3][head=2]2. [/head]Stamps and Signatures[/head]
+[color=#cb0000][mono]A 403C form may not be taken into affect until it it stamped and signed by either the Captain or a Central Command Officer. This form is legally binding once approved by one of the aforementioned parties.[/mono][/color]

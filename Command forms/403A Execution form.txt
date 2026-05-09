@@ -1,0 +1,33 @@
+[color=#1b67a5]█▄ █ ▀█▀[color=#1b67a5][bold][head=2] Command Documentation[/head][/bold][/color]
+█ ▀█     █     [/color][head=3][bold]FORM 403-A |[/bold]Execution Order.[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]1. [bold][/head]Information on the Condemned[/head][/bold]
+[bolditalic]Explain briefly why the individual has been marked for death:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Condemned's Name:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Condemned's Age:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Condemned's Gender:[/bolditalic]
+  - 	\[  ] Male
+  - 	\[  ] Female
+  - 	\[  ] Prefer not to state
+  - 	\[  ] N/A
+\[  ] Other:    [color=#002AAF]Sample other[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]1. [/head]Execution Information[/head]
+[bolditalic]Requesting Officer:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Method of Execution:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Officer to be Performing the Execution:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]3. [/head]Stamps and Signatures[/head]
+[color=#cb0000][mono]ANY 403A FORM IS INVALID WITHOUT THE CAPTAIN'S SIGNATURE AND STAMP.[/mono][/color]

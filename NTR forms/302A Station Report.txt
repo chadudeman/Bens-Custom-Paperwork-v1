@@ -1,0 +1,47 @@
+[color=#009100][head=2]Official CentComm Documentation[/head][/color]
+[head=3]302A Station Report.[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Station:
+Nanotrasen Representative: Zadovsky, K.
+Time of Evacuation Departure:
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]1. [/head]Short Summary.[/head]
+
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]2. [/head]Detailed Report.[/head]
+• [bold]Command Staff Present[/bold]
+> [italics]Kristopher Zadovsky, Nanotrasen Representative.[/italics]
+
+• [bold]Noted OPFOR[/bold]
+> [italics][/italics]
+
+• [bold]Command Departmental Report[/bold]
+> [italics][/italics]
+
+• [bold]Security Departmental Report[/bold]
+> [italics][/italics]
+
+• [bold]Cargo Departmental Report[/bold]
+> [italics][/italics]
+
+• [bold]Engineering Departmental Report[/bold]
+> [italics][/italics]
+
+• [bold]Medical Departmental Report[/bold]
+> [italics][/italics]
+
+• [bold]Science Departmental Report[/bold]
+> [italics][/italics]
+
+• [bold]Service Departmental Report[/bold]
+> [italics][/italics]
+
+• [bold]Silicon Report[/bold]
+> [italics][/italics]
+
+• [bold]Additional Notes[/bold]
+> [italics][/italics]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3]Nanotrasen Representative's Stamp and Signature.[/head]
+
+signed, [color=#50C878]Kristopher; of the most esteemed Zadovsky Family.[/color]

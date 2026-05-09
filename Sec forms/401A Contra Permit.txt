@@ -1,0 +1,55 @@
+[color=#cb0000]█▄ █ ▀█▀[color=#cb0000][bold][head=2] Security Documentation[/head][/bold][/color]
+█ ▀█     █     [/color][head=3][bold]FORM 401-A |[/bold] Contraband Permit.[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3][head=2]1. [bold][/head]Recipient Information[/bold][/head]
+[bolditalic]Name:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Gender:[/bolditalic]
+  - 	\[  ] Male
+  - 	\[  ] Female
+  - 	\[  ] Prefer not to state
+  - 	\[  ] N/A
+\[  ] Other:    [color=#002AAF]Sample other[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[bolditalic]Age:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]What department do you work under:[/bolditalic]
+  - 	\[  ] Service
+  - 	\[  ] Engineering
+  - 	\[  ] Security
+  - 	\[  ] Medical
+  - 	\[  ] Command
+  - 	\[  ] Science
+  - 	\[  ] Cargo
+  - 	\[  ] N/A
+\[  ] Other:    [color=#002AAF]Sample other[/color]
+                    ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ [head=3][head=2]2. [bold][/head]Contraband Information[/bold][/head]
+[bolditalic]Which contraband are you requesting access to?:[/bolditalic]
+    [color=#002AAF]- Sample Answer[/color]
+    [color=#002AAF]- Sample Answer[/color]
+    [color=#002AAF]- Sample Answer[/color]
+    [color=#002AAF]- Sample Answer[/color]
+
+[bolditalic]Contraband levels of the Item(s):[/bolditalic]
+  - 	\[  ] Central Command
+  - 	\[  ] Syndicate
+  - 	\[  ] Magical
+  - 	\[  ] Command
+  - 	\[  ] Major
+  - 	\[  ] Minor
+
+Note that certain contraband may only be authorized for use and possession by certain individuals. All minor contra can be authorized by the [color=#cb0000]Head of Security[/color], [color=#009100]Central Command[/color], or the [color=#1b67a5]Captain[/color]. Major and command contra can be approved by either the [color=#1b67a5]Captain[/color] or [color=#009100]Central Command[/color]. Anything above Command level contraband must be given written approval by [color=#009100]Central Command[/color], plus a stamp and signature.
+
+[bolditalic]Explain your reasoning for the permit request in detail:[/bolditalic]
+    [color=#002AAF]Sample Answer[/color]
+
+[bolditalic]Do you swear to not abuse this form's permissions and continue to abide by space law?:[/bolditalic]
+  - 	\[  ] Yes
+  - 	\[  ] No
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ [head=3][head=2]3. [bold][/head]Stamps and Signatures[/bold][/head]
+[mono][color=#cb0000]This 401A form is invalid until stamped by all relevant parties. Be aware that this permit may be revoked at a moment's notice by the Warden or any sufficiently ranking Command officials.[/mono][/color]

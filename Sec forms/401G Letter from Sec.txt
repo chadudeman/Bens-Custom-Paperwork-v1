@@ -1,0 +1,13 @@
+[color=#cb0000]█▄ █ ▀█▀[color=#cb0000][bold][head=2] Security Correspondence[/head][/bold][/color]
+█ ▀█     █     [/color][head=3][bold]FORM 401-G |[/bold] Sec Officer's Letter.[/head]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+To: [bolditalic][INSERT PERSON OF INTEREST'S NAME][/bolditalic]
+From: [bolditalic][color=#cb0000][SEC OFFICER'S] Desk[/color] | [color=#cb0000]Station Security.[/color][/bolditalic]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Dear [color=#cb0000]PERSON OF INTEREST[/color].
+
+Your's truly, [color=#cb0000]NAME HERE[/color].
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[mono][color=#cb0000]This letter will be recorded in the Sector's public database for record keeping purposes.[/color][/mono]
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+[head=3]Writer's signature.[/head]

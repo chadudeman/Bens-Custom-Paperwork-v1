@@ -1,12 +1,1 @@
-[color=#009100][head=2]Official CentComm Correspondence[/head][/color]
-[head=3]402F Request for Outfit Adjustment.[/head]
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-[head=3][head=2]1. [/head]Request Information[/head]
-I will preface this by stating the contents of this message are not mission critical to the Nanotrasen Representative's performance and ability to complete their duties. HOWEVER, acceptance and subsequent completion of the request would lead to a massive morale boost and increase in the productivity of the Nanotrasen Representative, and a denial would lead to a sharp downward spike in morale.
-
-With that stated, the Representative requests the following:
-
-- 1x CentComm Winter Trenchcoat from the CentCommdrobe.
-- 1x Navy Beret of your choosing.
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-[head=3]Nanotrasen Representative's Stamp and Signature[/head]
+i can't figure out how to remove files from a github but this wasn't supposed to be in the archive

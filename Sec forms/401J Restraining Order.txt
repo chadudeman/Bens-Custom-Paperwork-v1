@@ -1,14 +1,14 @@
 [color=#cb0000]█▄ █ ▀█▀[color=#cb0000][bold][head=2] Security Documentation[/head][/bold][/color]
-█ ▀█     █     [/color][head=3][bold]FORM 401-J |[/bold] Restraining Order.[/head]
+█ ▀█     █      [/color][head=3][bold]FORM 401-J |[/bold] Restraining Order.[/head]
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-[head=3][head=2]1. [bolditalic][/head]Necessary Information[/head][/bolditalic]
-Applicant Name:
+[head=3][head=2]1. [bold][/head]Necessary Information[/head][/bold]
+[bolditalic]Applicant Name:[/bolditalic]
     [color=#002AAF]Sample Answer[/color]
 
-Respondent Name:
+[bolditalic]Respondent Name:[/bolditalic]
     [color=#002AAF]Sample Answer[/color]
 
-Reasoning:
+[bolditalic]Reasoning:[/bolditalic]
     [color=#002AAF]Sample Answer[/color]
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 [mono]By the boundaries of this document, the listed Respondent is to avoid close proximity with the Applicant, and to specifically avoid any interaction with the Applicant. [color=#cb0000]This order will be enforced by Security, by force if necessary.[/color][/mono]

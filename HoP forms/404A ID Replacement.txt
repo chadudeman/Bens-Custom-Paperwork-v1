@@ -1,5 +1,5 @@
 [color=#134975]█▄ █ ▀█▀[color=#134975][bold][head=2] Command Documentation[/head][/bold][/color]
-█ ▀█     █     [/color][head=3][bold]FORM 404-A |[/bold]ID Replacement.[/head]
+█ ▀█     █     [/color][head=3][bold]FORM 404-A | [/bold]ID Replacement.[/head]
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 [head=3][head=2]1. [bold][/head]Personal Information[/head][/bold]
 [bolditalic]Name:[/bolditalic]

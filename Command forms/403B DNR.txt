@@ -1,5 +1,5 @@
 [color=#1b67a5]█▄ █ ▀█▀[color=#1b67a5][bold][head=2] Command Documentation[/head][/bold][/color]
-█ ▀█     █     [/color][head=3][bold]FORM 403-B |[/bold]DNR Order.[/head]
+█ ▀█     █     [/color][head=3][bold]FORM 403-B | [/bold]DNR Order.[/head]
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 [head=3][head=2]1. [bold][/head]Information on the Individual[/head][/bold]
 [bolditalic]Explain briefly why the individual has been marked DNR:[/bolditalic]
@@ -25,4 +25,4 @@
     - 	\[  ] NO
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
  [head=3][head=2]3. [/head]Stamps and Signatures[/head]
-[color=#cb0000][mono]ANY 403B FORM IS INVALID WITHOUT THE CAPTAIN'S SIGNATURE AND STAMP.[/mono][/color]
+[color=#cb0000][mono]ANY 403B FORM IS INVALID WITHOUT THE CAPTAIN'S SIGNATURE AND STAMP, OR WRITTEN ORDERS FROM A CENTRAL COMMAND OFFICIAL.[/mono][/color]

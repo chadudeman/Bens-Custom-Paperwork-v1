@@ -2,7 +2,7 @@
 [head=3]302A Station Report.[/head]
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Station:
-Nanotrasen Representative: Zadovsky, K.
+Nanotrasen Representative: 
 Time of Evacuation Departure:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 [head=3][head=2]1. [/head]Short Summary.[/head]
@@ -10,7 +10,7 @@ Time of Evacuation Departure:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 [head=3][head=2]2. [/head]Detailed Report.[/head]
 • [bold]Command Staff Present[/bold]
-> [italics]Kristopher Zadovsky, Nanotrasen Representative.[/italics]
+> [italics]NAME, Nanotrasen Representative.[/italics]
 
 • [bold]Noted OPFOR[/bold]
 > [italics][/italics]
@@ -44,4 +44,4 @@ Time of Evacuation Departure:
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 [head=3]Nanotrasen Representative's Stamp and Signature.[/head]
 
-signed, [color=#50C878]Kristopher; of the most esteemed Zadovsky Family.[/color]
+signed, [color=#009100].[/color]

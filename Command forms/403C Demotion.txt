@@ -1,5 +1,5 @@
 [color=#1b67a5]█▄ █ ▀█▀[color=#1b67a5][bold][head=2] Command Documentation[/head][/bold][/color]
-█ ▀█     █     [/color][head=3][bold]FORM 403-C |[/bold]Command Demotion Order.[/head]
+█ ▀█     █     [/color][head=3][bold]FORM 403-C | [/bold]Command Demotion Order.[/head]
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
  [head=3][head=2]1. [bold][/head]Relevant Information[/head][/bold]
 [bolditalic]Name of Demotee:[/bolditalic]
@@ -23,4 +23,4 @@
     [color=#002AAF]Sample Answer[/color]
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
  [head=3][head=2]2. [/head]Stamps and Signatures[/head]
-[color=#cb0000][mono]A 403C form may not be taken into affect until it it stamped and signed by either the Captain or a Central Command Officer. This form is legally binding once approved by one of the aforementioned parties.[/mono][/color]
+[color=#cb0000][mono]A 403C form may not be taken into affect until it it stamped and signed by either the Captain or a Central Command Official. This form is legally binding once approved by one of the aforementioned parties.[/mono][/color]

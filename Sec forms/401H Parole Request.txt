@@ -1,5 +1,5 @@
 [color=#cb0000]█▄ █ ▀█▀[color=#cb0000][bold][head=2] Security Documentation[/head][/bold][/color]
-█ ▀█     █     [/color][head=3][bold]FORM 401-H |[/bold]Parole Request.[/head]
+█ ▀█     █     [/color][head=3][bold]FORM 401-H |[/bold] Parole Request.[/head]
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 [head=3][head=2]1. [bold][/head]Information on the Prisoner[/head][/bold]
 [bolditalic]Name:[/bolditalic]
